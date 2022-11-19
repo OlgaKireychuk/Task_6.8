@@ -1,5 +1,5 @@
 # Практика по JavaScript
-Проект разработан в качестве практического задания на курсе "Профессия Fullstack веб-разработчик на JavaScript и PHP"
+Проект разработан в качестве практического задания на курсе "Профессия Fullstack веб-разработчик на JavaScript и PHP"<br>
 Реализованы:
 - [Стартовая страница](https://olgakireychuk.github.io/Task_6.8/index.html)
 - [Задание "Привет, мир!"](https://olgakireychuk.github.io/Task_6.8/task1/index.html)
