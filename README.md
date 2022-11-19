@@ -9,9 +9,9 @@
 - [Заданиче "Перехват формы"](https://olgakireychuk.github.io/Task_6.8/task5/index.html#)
 
 ## Используемые технологии
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## Как открыть/запустить
 Перейти по [**ссылке**](https://olgakireychuk.github.io/Task_6.8/index.html)
